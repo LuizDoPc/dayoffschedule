@@ -1,10 +1,10 @@
 import React from "react";
 import {
-    Table,
-    TableBody,
-    TableCell,
-    TableHead,
-    TableRow
+  Table,
+  TableBody,
+  TableCell,
+  TableHead,
+  TableRow
 } from "@material-ui/core";
 
 const DataTable = ({ data }) => {
